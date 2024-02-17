@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+# Learn Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+[DEMO🚀](https://nextjs-dashboard-ovoxiix.vercel.app/)
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+![demo screenshot](https://github.com/ovoxiix/nextjs-dashboard/assets/155057856/af7a49d7-1ac1-4f48-9d30-ea303a9dbbef)
